@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\views\\city\\citylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:views\\city\\citylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\views\\city\\cityaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:views\\city\\cityaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\views\\country\\countryaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:views\\country\\countryaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\models\\statemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:models\\statemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\views\\state\\statelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:views\\state\\statelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\views\\state\\stateaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:views\\state\\stateaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\views\\country\\countrylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:views\\country\\countrylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|c:\\users\\haril\\onedrive\\desktop\\sem- 5\\addressbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0E9AD13-52C5-4D7A-A699-5EC850A951C6}|AddressBook.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "Models\\HomeModel.cs",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Models\\HomeModel.cs*",
+              "RelativeToolTip": "Models\\HomeModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:43:11.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CountryModel.cs",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Models\\CountryModel.cs",
+              "RelativeDocumentMoniker": "Models\\CountryModel.cs",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Models\\CountryModel.cs",
+              "RelativeToolTip": "Models\\CountryModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:33:20.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityAddEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\City\\CityAddEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\City\\CityAddEdit.cshtml",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\City\\CityAddEdit.cshtml",
+              "RelativeToolTip": "Views\\City\\CityAddEdit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T06:01:55.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGsBAAAAAAAAAAAqwHEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T11:01:44.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryAddEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\Country\\CountryAddEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Country\\CountryAddEdit.cshtml",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\Country\\CountryAddEdit.cshtml",
+              "RelativeToolTip": "Views\\Country\\CountryAddEdit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T21:50:35.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAWwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:00:39.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwFMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T13:09:39.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwN0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:57:53.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CityList.cshtml",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\City\\CityList.cshtml",
+              "RelativeDocumentMoniker": "Views\\City\\CityList.cshtml",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\City\\CityList.cshtml",
+              "RelativeToolTip": "Views\\City\\CityList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T13:06:59.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CityModel.cs",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Models\\CityModel.cs",
+              "RelativeDocumentMoniker": "Models\\CityModel.cs",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Models\\CityModel.cs",
+              "RelativeToolTip": "Models\\CityModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:15:07.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:54:33.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StateModel.cs",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Models\\StateModel.cs",
+              "RelativeDocumentMoniker": "Models\\StateModel.cs",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Models\\StateModel.cs",
+              "RelativeToolTip": "Models\\StateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:31:18.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StateList.cshtml",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\State\\StateList.cshtml",
+              "RelativeDocumentMoniker": "Views\\State\\StateList.cshtml",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\State\\StateList.cshtml",
+              "RelativeToolTip": "Views\\State\\StateList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T21:50:53.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CountryList.cshtml",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\Country\\CountryList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Country\\CountryList.cshtml",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\Country\\CountryList.cshtml",
+              "RelativeToolTip": "Views\\Country\\CountryList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T22:03:20.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StateAddEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\State\\StateAddEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\State\\StateAddEdit.cshtml",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Views\\State\\StateAddEdit.cshtml",
+              "RelativeToolTip": "Views\\State\\StateAddEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T06:10:00.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StateController.cs",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\Controllers\\StateController.cs",
+              "RelativeToolTip": "Controllers\\StateController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:55:09.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HARIL\\OneDrive\\Desktop\\Sem- 5\\AddressBook\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T22:07:54.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

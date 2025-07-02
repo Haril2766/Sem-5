@@ -1,0 +1,73 @@
+﻿@model DataTable
+@using System.Data
+
+<main id="main" class="main">
+    <div class="pagetitle">
+        <h1>City List</h1>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+                <li class="breadcrumb-item">City</li>
+                <li class="breadcrumb-item active"><a asp-controller="City" asp-action="CityList">CityList</a></li>
+            </ol>
+        </nav>
+    </div><!-- End Page Title -->
+    <section class="section">
+        <!-- Search Section -->
+      
+        <div class="row">
+            <div class="col-lg-12">
+
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <h5 class="card-title">City List</h5>
+                            <a class="btn btn-success" id="addQuiz" asp-controller="City" asp-action="CityAddEdit">Add City</a>
+                        </div>
+                        <!-- Table with stripped rows -->
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>City ID</th>
+                                    <th>State ID</th>
+                                    <th>CountryId</th>
+                                    <th>City Name</th>
+                                    <th>PIN Code</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody id="questionTable">
+                                <!-- Dynamic rows will be added here -->
+                                @foreach (DataRow row in Model.Rows)
+                                {
+                                    <tr>
+                                        <td>@row["CityId"]</td>
+                                        <td>@row["StateId"]</td>
+                                        <td>@row["CountryId"]</td>
+                                        <td>@row["CityName"]</td>
+										<td>@row["PinCode"]</td>
+                                        <td>
+                                            <a asp-controller="City" asp-action="CityAddEdit" asp-route-CityId="@row["CityId"]" class="btn btn-primary btn-sm" title="Upload new profile image"><i class="bi bi-pencil"></i></a>
+
+                                            <form method="post" asp-controller="City" asp-action="CityDelete" onsubmit="return confirmDelete()" style="display:inline;">
+                                                <input type="hidden" name="CityId" value="@row["CityId"]" />
+                                                <button type="submit" class="btn btn-danger btn-sm" title="Delete">
+                                                    <i class="bi bi-trash"></i>
+                                                </button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+
+                        <!-- End Table with stripped rows -->
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+</main><!-- End #main -->

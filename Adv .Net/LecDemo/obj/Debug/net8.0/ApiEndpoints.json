@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "LecDemo.Controllers.StuAPIController",
+    "Method": "GetStudent",
+    "RelativePath": "api/StuAPI",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LecDemo.Controllers.StuAPIController",
+    "Method": "AddStudents",
+    "RelativePath": "api/StuAPI",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "std",
+        "Type": "LecDemo.Models.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LecDemo.Controllers.StuAPIController",
+    "Method": "EditStudents",
+    "RelativePath": "api/StuAPI/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "std",
+        "Type": "LecDemo.Models.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LecDemo.Controllers.StuAPIController",
+    "Method": "GetStudentById",
+    "RelativePath": "api/StuAPI/{StudentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "StudentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

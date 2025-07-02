@@ -1,0 +1,98 @@
+﻿@model AddressBook.Models.CityModel
+
+<main id="main" class="main">
+    <div class="container">
+        <div class="pagetitle">
+            <h1>Quiz Add</h1>
+            <nav>
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li class="breadcrumb-item">City</li>
+                    <li class="breadcrumb-item active"><a asp-controller="City" asp-action="CityAddEdit">CityAddEdit</a></li>
+                </ol>
+            </nav>
+        </div><!-- End Page Title -->
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Add New City </h5>
+                <form class="row g-3" asp-controller="City" asp-action="CitySave" method="post">
+                    <input hidden asp-for="CityId" />
+                   @* <div class="col-12">
+                        <label for="inputName4" asp-for="StateId" class="form-label"><span class="text-danger">*</span>StateId</label>
+                        <input type="text" asp-for="StateId" class="form-control" id="inputName4">
+                        <span asp-validation-for="StateId" class="text-danger"></span>
+                    </div> *@
+
+                    <div class="form-group">
+                        <label for="StateId" class="col-md-3 control-label"><span class="text-danger">*</span>State Name</label>
+                        <div class="col-md-9">
+                            <select id="StateId"
+                                    name="StateId"
+                                    class="form-control"
+                                    asp-for="StateId">
+                                <option value="">Select State</option>
+                                @if (ViewBag.StateList != null)
+                                {
+                                    foreach (var state in
+                                    ViewBag.StateList)
+                                    {
+                                        if (state.StateID == Model.StateId)
+                                        {
+                                            <option value="@state.StateID">@state.StateName</option>
+                                        }
+                                        else
+                                        {
+                                            <option value="@state.StateID">@state.StateName</option>
+                                        }
+                                    }
+                                }
+                            </select>
+                            <span asp-validation-for="StateId" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    @* <div class="col-12"> 
+                         <label for="inputName4" asp-for="CountryId" class="form-label"><span class="text-danger">*</span>CountryId</label> 
+                       <input type="text" asp-for="CountryId" class="form-control" id="inputName4"> 
+                         <span asp-validation-for="CountryId" class="text-danger"></span> 
+                     </div> *@
+
+                    <div class="form-group">
+                        <label for="CountryId" class="col-md-3 control-label"><span class="text-danger">*</span>Country Name</label>
+                        <div class="col-md-9">
+                            <select id="CountryID"
+                                    name="CountryID"
+                                    class="form-control"
+                                    asp-for="CountryId">
+                                <option value="">Select Country</option>
+                                @foreach (var country in ViewBag.CountryList)
+                                {
+                                    <option value="@country.CountryID">
+                                        @country.CountryName
+                                    </option>
+                                }
+                            </select>
+                            <span asp-validation-for="CountryId" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <label for="inputName4" asp-for="CityName" class="form-label"><span class="text-danger">*</span>City Name</label>
+                        <input type="text" asp-for="CityName" class="form-control" id="inputName4">
+                        <span asp-validation-for="CityName" class="text-danger"></span>
+                    </div>
+                    
+                    <div class="col-12">
+                        <label for="inputName4" asp-for="PinCode" class="form-label"><span class="text-danger">*</span>PinCode</label>
+                        <input type="text" asp-for="PinCode" class="form-control" id="inputName4">
+                        <span asp-validation-for="PinCode" class="text-danger"></span>
+                    </div>
+                    
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-primary">Save</button>
+                        <a class="btn btn-secondary" asp-controller="City" asp-action="CityList">Cancel</a>
+                    </div>
+                </form><!-- Vertical Form -->
+            </div>
+        </div>
+    </div>
+</main>
